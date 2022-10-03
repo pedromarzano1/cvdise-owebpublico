@@ -1,0 +1,268 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.index-banner__img{
+    width: 100%;
+    height: 150px;
+}
+
+
+.index-text{
+    margin-right:10px;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    margin: 10px 0;
+    background-color: rgb(44, 155, 236);
+
+
+}
+
+.index-text__txt{
+    margin-right: 30px;
+    text-decoration: none;
+    color:white;
+    font-size: 2em;
+    transition: .3s;
+}
+
+.index-text__txt:hover{
+    background-color: #fff;
+    color: rgb(44, 155, 236);
+    border-radius: 10px;
+
+}
+
+
+
+
+.index-main-info{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    min-width: 122vh;
+    margin: 5rem 0;
+}
+
+
+.main-info__container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    gap: 70px;
+    background-color: rgb(44, 155, 236);
+}
+
+
+
+.index-main__img{
+    border: 1px solid #9CA3AF;
+    border-radius: 40px;
+    height: 400px;
+}
+
+
+.main-info__conntainer{
+    text-align: center;
+}
+
+
+
+
+.main-info__txt{
+    color: black;
+    width: 100%;
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 25px;
+
+}
+
+
+.main-info__texto{
+    font-size: 1.2em;
+    color: black;
+    font-weight: 500;
+}
+
+
+.index-main__container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: rgb(44, 155, 236);
+    margin-top: 100px;
+}
+
+
+.index-main__img2{
+    border: 1px solid #9CA3AF;
+    border-radius: 40px;
+    height: 400px;
+    margin-right: 100px;
+}
+
+.main-op_text{
+    color: black;
+    width: 100%;
+    font-size: 2em;
+    text-align: center;
+    
+}
+
+.main-op_txt{
+    font-size: 1.2em;
+    color: black;
+    font-weight: 500;
+    margin-right: 30px;
+}
+
+
+
+.index-main__container3{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: rgb(44, 155, 236);
+    margin-top: 100px;
+}
+
+
+
+
+
+/*lucasH*/
+.header-text{
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+
+
+.index-main_lh{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+   
+}
+
+h2 {
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+h3 {
+    font-family: sans-serif;
+}
+
+h4 {
+    font-family: sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+li{
+    color: #000000;
+    text-decoration: wavy
+}
+
+.main__img{
+    height: 250px;
+    width: auto;
+    -webkit-border-radius: 50px;
+    border-radius: 50%;
+    
+    
+}
+
+
+.contacto{
+    color: rgb(0, 0, 0);
+    
+}
+
+li{
+    margin-left: 10px;
+}
+
+fieldset{
+    width: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Footer*/
+
+.index-footer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 3px;
+    background-color:rgb(17, 37, 64);
+    color: white;
+    position: relative;
+}
+
+.index-footer__p{
+    display: flex;
+    align-items: flex-end;
+    
+}
+
+.index-footer_cont{
+    margin-top: 590px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 3px;
+    background-color:rgb(17, 37, 64);
+    color: white;
+    position: relative;
+}
+
+/*Integrantes*/
+
+.profile__img{
+    width: 100%;
+    
+}
+
+.profile_img-container{
+    display: flex;
+    justify-content: center;
+}
+
+
+.profile_txt{
+    text-decoration: none;
+    color: rgb(44, 155, 236);
+    font-size: 1.5em;
+}
+
+
+.profile-list{
+    list-style: none;
+}
